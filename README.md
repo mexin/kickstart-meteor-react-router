@@ -1,3 +1,5 @@
+# WARNING: This project is no longer in active maintenance. If you would like to maintain it, contact me at benoit@thereactivestack.com
+
 # kickstart-meteor-react-router
 
 Kickstart a project with Meteor, React and react-router fast!
